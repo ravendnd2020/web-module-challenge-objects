@@ -152,7 +152,7 @@ Use the getReviewsByRating function below to do the following:
   2. Receive a rating
   3. Return an array with all the reviews in that range
 
-  For example: getReviewByRating(reviews, 4) would return these reviews in the 4 range (4-4.9):
+  For example: getReviewByRating(reviews, 4) would return these reviews in the 4 range (4-4.9)d:
   [
     {name: "Miranda", rating: 4, feedback:"fun trivia and cool vibes"},
     {name: "Wen", rating: 4.5, feedback:"I don't leave my house often, but when I do, it's for this place. Highly reccomend."},
